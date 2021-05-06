@@ -38,10 +38,19 @@ enableGitInfo = true
   weight = 3
 
 [menu]
-# [[menu.before]]
+
+[[menu.before]]
+    name = "资源网址"
+    weight = 9
+
+[[menu.before]]
+    name = "…Github: ishanshan"
+    url = "https://github.com/ishanshan"
+    weight = 10
+
 [[menu.after]]
   name = "Github"
-  url = "https://github.com/alex-shpak/hugo-book"
+  url = "https://github.com/ishanshan"
   weight = 10
 
 [[menu.after]]
