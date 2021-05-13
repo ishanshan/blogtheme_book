@@ -90,10 +90,11 @@
 
     「nice to have」的需求不是那么着急，这个月能实现就好。
 
-如果你愿意帮忙，欢迎微信联系我（wechat ID: ishanshan42） ，或直接移步本仓库的 issue#1 回应。
+如果你愿意帮忙，欢迎微信联系我（wechat ID: ishanshan42） ，或直接移步本仓库的 [issue#1](https://github.com/ishanshan/blogtheme_book/issues/1) 回应。
 
 
 
 ## CHANGELOG 
 
-- 210521 整理发布
+- 210513 完善发布
+- 210512 整理迭代
