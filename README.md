@@ -96,7 +96,7 @@
 
     「nice to have」的需求不是那么着急，这个月能实现就好。
 
-如果你愿意帮忙，欢迎微信联系我（wechat ID: ishanshan42） ，或直接移步本仓库的 [issue#1](https://github.com/ishanshan/blogtheme_book/issues/1) 回应。
+如果你愿意帮忙，欢迎微信联系我（wechat ID: ishanshan42） ，或直接移步本仓库的 [issue#1](https://github.com/ishanshan/blogtheme_book/issues/1) 回应，感激不尽：D
 
  
 关于如何分享调整后的版本给我，欢迎选择这两种方式的任意一种，以你方便的来就好：
