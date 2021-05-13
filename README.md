@@ -65,7 +65,7 @@
     - demo 见 [Read the Docs features — Read the Docs 5.14.3 documentation](https://docs.readthedocs.io/en/stable/features.html)
     - 没最先考虑这个，主要是
         1. 单篇文档的目录和主题文档目录混在一起，浏览起来容易迷失或分心
-        2. 搜索框和单篇文档的目录不是固定的，而是随正文滚动，使用起来不够方便。
+        2. 搜索框和单篇文档的目录不是固定的，而是随正文滚动，使用起来不够方便
         3. 上述两项调整起来比较麻烦吧
 
 
@@ -75,7 +75,7 @@
 
 - [GitBook](http://gitbook.com/)：图床图片加了在线处理代码后，就无法显示了…… 而我[过往文章中大部分图片都是用七牛托管且直接加在线处理代码的](https://ishanshan.im/tool/community/HbMarkdownImage)，且不打算改变这个习惯，所以排除该平台。
 - [Jekyll](https://jekyllrb.com/) ：主要是因为还没找到比较符合「must have」所列需求的主题。
-- [Bookstack](https://www.bookstackapp.com/)： 界面不够简洁，不必要的元素较多
+- [Bookstack](https://www.bookstackapp.com/)： 界面不够简洁，不必要的元素较多。
 
 
 ## 需要的支持
@@ -84,7 +84,7 @@
 
 2. 如果没有，目前整合那两个 hugo 主题来实现「must have 」里浏览体验相关的需求，对我来说有点头大>_< 有没有伙伴可以帮忙？
 
-    如果能在这周日内实现出来，那真是太好了：D
+    如果能在**这周日内（210516）**实现出来，那真是太好了：D
 
 3. 「nice to have」里的需求，对我来说实现起来更是头大 >_<  如果有伙伴能帮忙也一块儿实现，就真是太好了，感激不尽：D   
 
