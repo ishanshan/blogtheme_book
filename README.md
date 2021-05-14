@@ -27,7 +27,7 @@
 - [ ] 侧边栏可以链接站外页面 #1
 - [ ] 单篇文档里的目录，可以生成锚点以便定向跳转 #1
 - [ ] 图床图片加了在线处理代码后，依然可以正常显示 #1
-- [ ] 免费、开源、界面简洁 #1
+- [ ] 开源、界面简洁 #1
 
 
 
@@ -48,9 +48,15 @@
 
 ## 目前已做尝试和进展
 
-检索 `GitBook alternative` 并对比一些工具后，目前推测整合 [HUGO](https://gohugo.io/) 这两个主题，估计最易符合我的需求：
+检索 `GitBook alternative` 并对比一些工具后，目前推测修改 [HUGO](https://gohugo.io/) 这两个主题，估计最易符合我的需求：
+
 1. zdoc: https://themes.gohugo.io//theme/hugo-theme-zdoc/docs/contentmanagement/sections/
+    
+    这个主要是移动端没有单篇文档的目录。
+
 2. hugo-book: https://themes.gohugo.io//theme/hugo-book/docs/example/table-of-contents/
+    
+    这个只差移动端顶部没有 floating bar ，检索或切换到其它页面不够方便。
 
 
 ### 附：
@@ -58,15 +64,15 @@
 
 1. Hexo 的这个主题 [Hexo Doc Theme | Get Started](https://zalando-incubator.github.io/hexo-theme-doc/get-started.html)
 
-    没最优先考虑这个，主要是单篇文档的目录和主题文档目录混在一起，浏览起来容易迷失或分心。
+    没最优先考虑这个，主要是单篇文档的目录和主题文集目录混在一起，浏览起来容易迷失或分心，且如果单篇文档的目录很长，翻阅文集目录则不太方便。且估计调整起来比较麻烦。
 
 
 2. Read the Docs：
     - demo 见 [Read the Docs features — Read the Docs 5.14.3 documentation](https://docs.readthedocs.io/en/stable/features.html)
     - 没最先考虑这个，主要是
-        1. 单篇文档的目录和主题文档目录混在一起，浏览起来容易迷失或分心
-        2. 搜索框和单篇文档的目录不是固定的，而是随正文滚动，使用起来不够方便
-        3. 上述两项调整起来比较麻烦吧
+        1. 没最优先考虑这个，主要是单篇文档的目录和主题文集目录混在一起，浏览起来容易迷失或分心，且如果单篇文档的目录很长，翻阅文集目录则不太方便。
+        2. 搜索框和单篇文档的目录不是固定的，而是随正文滚动，使用起来不够方便。
+        3. 上述两项调整起来比较麻烦吧。
 
 
 
@@ -82,7 +88,7 @@
 
 1. 有没有更易满足上述需求的其它工具或主题推荐？
 
-2. 如果没有，目前整合那两个 hugo 主题来实现「must have 」里浏览体验相关的需求，对我来说有点头大>_< 有没有伙伴可以帮忙？
+2. 如果没有，目前修改那两个候选 hugo 主题来实现「must have」里浏览体验相关的需求，对我来说有点头大>_< 有没有伙伴可以帮忙？
 
     如果能在 **这周日内（210516）** 实现出来，那真是太好了：D
 
@@ -90,8 +96,12 @@
 
     「nice to have」的需求不是那么着急，这个月能实现就好。
 
-如果你愿意帮忙，欢迎微信联系我（wechat ID: ishanshan42） ，或直接移步本仓库的 [issue#1](https://github.com/ishanshan/blogtheme_book/issues/1) 回应。
+如果你愿意帮忙，欢迎微信联系我（wechat ID: ishanshan42） ，或直接移步本仓库的 [issue#1](https://github.com/ishanshan/blogtheme_book/issues/1) 回应，感激不尽：D
 
+ 
+关于如何分享调整后的版本给我，欢迎选择这两种方式的任意一种，以你方便的来就好：
+1. 你新建一个公开仓库，把仓库地址分享给我
+2. 把调整后的版本 pull request 到这个仓库
 
 
 ## CHANGELOG 
